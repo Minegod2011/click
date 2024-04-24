@@ -1,0 +1,40 @@
+body
+{
+    background-color: #000000;
+    color: white;
+}
+
+h1
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3rem;
+}
+
+.button
+{
+    width: 400px;
+    height: 250px;
+    background-color: #1a1a1a;
+    border-radius: 20px;
+    color: white;
+    font-size: 1.5rem;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.but_div
+{
+    display: flex;
+    justify-content: center;
+    top: 70px;
+    position: relative
+}
+
+#p
+{
+    font-size: 2.5rem;
+    text-align: center;
+    top:100px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
